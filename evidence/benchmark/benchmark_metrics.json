@@ -1,0 +1,12 @@
+{
+  "benchmark_name": "FlashScope 2.3M Scale Benchmark",
+  "timestamp": "2026-10-11T00:36:52Z",
+  "total_records_processed": 2300000,
+  "records_per_second": 63239.0,
+  "ingest_duration_seconds": 36.37,
+  "total_runtime_seconds": 36.76,
+  "peak_rss_mb": 141.75,
+  "sqlite_database_size_mb": 914.7,
+  "fault_signatures_detected": 31,
+  "deduplicated_incidents_created": 91
+}
